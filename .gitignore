@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Topics/Comments/The countdown/out/
+/Topics/Comments/The countdown/out/production/classes/
+/Topics/Overview of the basic program/Theory/build/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Printing a magic letter/out/production/classes/
+/Topics/Scanning the input/Print strings in the reverse order/out/
+/Topics/Scanning the input/Print strings in the reverse order/out/production/classes/
+/Topics/Scanning the input/Printing each word in a new line/out/
+/Topics/Scanning the input/Printing each word in a new line/out/production/classes/
